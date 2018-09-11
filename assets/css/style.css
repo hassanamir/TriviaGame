@@ -1,0 +1,31 @@
+.container {
+    /* text-align: center; */
+    margin: 26px;
+    padding: 10px;
+    /* text-align: center; */
+}
+body {
+    background:lightgray;
+    text-align: center
+}
+h1{
+    text-align: center;
+    float: right;
+    color: #a65341;
+    /* text-align: center; */
+    position: relative;
+    
+}
+.jumbotron { background:#a65341;
+    padding: 35px;
+    margin: 50px;
+
+}
+#start{
+    /* background: red; */
+    /* text-align: center; */
+    float: right;
+    background: red;
+    text-align: center;
+
+}
